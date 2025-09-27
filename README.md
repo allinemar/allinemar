@@ -8,4 +8,4 @@
 C, C++, Java, Prolog, Haskell, SQL, HTML, CSS, Git, GitHub  
 (Currently learning Kotlin and mobile development)
 
-📫 [github.com/allinemar](https://github.com/allinemar) | allinemartins0104@gmail.com  
+📫 allinemartins0104@gmail.com  
