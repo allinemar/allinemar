@@ -9,3 +9,4 @@ C, C++, Java, Python, Prolog, Haskell, SQL, HTML, CSS, Git, GitHub
 (Currently learning Kotlin and mobile development)
 
 📫 allinemartins0104@gmail.com  
+💻linkedin.com/in/alline-martins-573ba7244
