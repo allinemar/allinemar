@@ -6,7 +6,6 @@
 
 ### 🔧 Skills  
 C, C++, Java, Python, Prolog, Haskell, SQL, HTML, CSS, FastAPI
-(Currently learning Kotlin and mobile development)
 
 📫 allinemartins0104@gmail.com  
 💻 Let's connect on [LinkedIn](https://www.linkedin.com/in/alline-martins-573ba7244/) too!
