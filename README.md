@@ -5,7 +5,7 @@
 📂 Take a look at what I’ve been working on — I’m excited to share it with you!
 
 ### 🔧 Skills  
-C, C++, Java, Python, Prolog, Haskell, SQL, HTML, CSS, Git, GitHub  
+C, C++, Java, Python, Prolog, Haskell, SQL, HTML, CSS, FastAPI
 (Currently learning Kotlin and mobile development)
 
 📫 allinemartins0104@gmail.com  
